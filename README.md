@@ -37,6 +37,7 @@ A simple and efficient web scraping app to extract **apartment listings** from [
 ├── app.py # Streamlit web app
 ├── scraper.py # Real estate scraping logic
 ├── output_example.csv
+├── requirements.txt
 └── README.md # Project documentation
 ```
 
